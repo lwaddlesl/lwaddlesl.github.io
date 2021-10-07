@@ -1,5 +1,7 @@
 # converter
 
+git pages: https://lwaddlesl.github.io/
+
 ## Project setup
 ```
 npm install
