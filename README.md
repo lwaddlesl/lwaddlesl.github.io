@@ -2,6 +2,8 @@
 
 git pages: https://lwaddlesl.github.io/
 
+libraries: vue-router; vuex; vue-chartjs
+
 ## Project setup
 ```
 npm install
